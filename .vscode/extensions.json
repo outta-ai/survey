@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "streetsidesoftware.code-spell-checker",
+    "GitHub.vscode-pull-request-github",
+    "rome.rome"
+  ]
+}

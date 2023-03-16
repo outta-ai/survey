@@ -1,0 +1,20 @@
+{
+  "editor.rulers": [
+    120
+  ],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "cSpell.words": [
+    "outta"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "rome.rome",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "rome.rome",
+    "editor.formatOnSave": true
+  }
+}
