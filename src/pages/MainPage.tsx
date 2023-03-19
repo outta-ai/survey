@@ -1,12 +1,9 @@
-import React from "react";
+import React from 'react';
+import Header from 'components/Header/Header';
 
 function MainPage(): JSX.Element {
   return (
-    <div>
-      <h1>
-        메인 페이지!
-      </h1>
-    </div>
+    <Header title='GoogleForm' />
   );
 };
 
