@@ -196,9 +196,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001406":
-  version: 1.0.30001466
-  resolution: "caniuse-lite@npm:1.0.30001466"
-  checksum: d81d0801f72162ebb7edb222cb48702f351e1a2d6acc9f340913f5b07e28c2105d1d2de9f0633c9b89e1aa1cd14f5d9154e270bf7b61296a7209745b32bdb01c
+  version: 1.0.30001468
+  resolution: "caniuse-lite@npm:1.0.30001468"
+  checksum: 39f23ce5af90fee37004bee334cd809a20f8aa46ef08244f75e33d2e32b53cfebee205018769a2712937fa05ea5a1c0249175771ffee561acd1e8e05c54f9a67
   languageName: node
   linkType: hard
 
@@ -223,74 +223,74 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lefthook-darwin-arm64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-darwin-arm64@npm:1.3.5"
+"lefthook-darwin-arm64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-darwin-arm64@npm:1.3.6"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"lefthook-darwin-x64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-darwin-x64@npm:1.3.5"
+"lefthook-darwin-x64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-darwin-x64@npm:1.3.6"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"lefthook-freebsd-arm64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-freebsd-arm64@npm:1.3.5"
+"lefthook-freebsd-arm64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-freebsd-arm64@npm:1.3.6"
   conditions: os=freebsd & cpu=arm64
   languageName: node
   linkType: hard
 
-"lefthook-freebsd-x64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-freebsd-x64@npm:1.3.5"
+"lefthook-freebsd-x64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-freebsd-x64@npm:1.3.6"
   conditions: os=freebsd & cpu=x64
   languageName: node
   linkType: hard
 
-"lefthook-linux-arm64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-linux-arm64@npm:1.3.5"
+"lefthook-linux-arm64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-linux-arm64@npm:1.3.6"
   conditions: os=linux & cpu=arm64
   languageName: node
   linkType: hard
 
-"lefthook-linux-x64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-linux-x64@npm:1.3.5"
+"lefthook-linux-x64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-linux-x64@npm:1.3.6"
   conditions: os=linux & cpu=x64
   languageName: node
   linkType: hard
 
-"lefthook-windows-arm64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-windows-arm64@npm:1.3.5"
+"lefthook-windows-arm64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-windows-arm64@npm:1.3.6"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"lefthook-windows-x64@npm:1.3.5":
-  version: 1.3.5
-  resolution: "lefthook-windows-x64@npm:1.3.5"
+"lefthook-windows-x64@npm:1.3.6":
+  version: 1.3.6
+  resolution: "lefthook-windows-x64@npm:1.3.6"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
 
 "lefthook@npm:^1.3.5":
-  version: 1.3.5
-  resolution: "lefthook@npm:1.3.5"
+  version: 1.3.6
+  resolution: "lefthook@npm:1.3.6"
   dependencies:
-    lefthook-darwin-arm64: 1.3.5
-    lefthook-darwin-x64: 1.3.5
-    lefthook-freebsd-arm64: 1.3.5
-    lefthook-freebsd-x64: 1.3.5
-    lefthook-linux-arm64: 1.3.5
-    lefthook-linux-x64: 1.3.5
-    lefthook-windows-arm64: 1.3.5
-    lefthook-windows-x64: 1.3.5
+    lefthook-darwin-arm64: 1.3.6
+    lefthook-darwin-x64: 1.3.6
+    lefthook-freebsd-arm64: 1.3.6
+    lefthook-freebsd-x64: 1.3.6
+    lefthook-linux-arm64: 1.3.6
+    lefthook-linux-x64: 1.3.6
+    lefthook-windows-arm64: 1.3.6
+    lefthook-windows-x64: 1.3.6
   dependenciesMeta:
     lefthook-darwin-arm64:
       optional: true
@@ -310,7 +310,7 @@ __metadata:
       optional: true
   bin:
     lefthook: bin/index.js
-  checksum: 98b1d5ba9898116959d8711a68c1a2db0ae5aba87f92f9c07c46c82518054b935a6c04ff2a3404fd7301cd3201948b5115b222b2e49e463bd868e11d603b98ea
+  checksum: f1174ef33214c3bbed11176cb45c65068a4c9ed90ac23d9b82732a6577424ea7e6173173e0dae59255f388d160c3b17a30efc2d78d3f597735d9ac5367b55d14
   languageName: node
   linkType: hard
 
@@ -423,6 +423,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"prettier@npm:^2.8.4":
+  version: 2.8.4
+  resolution: "prettier@npm:2.8.4"
+  bin:
+    prettier: bin-prettier.js
+  checksum: c173064bf3df57b6d93d19aa98753b9b9dd7657212e33b41ada8e2e9f9884066bb9ca0b4005b89b3ab137efffdf8fbe0b462785aba20364798ff4303aadda57e
+  languageName: node
+  linkType: hard
+
 "react-dom@npm:18.2.0":
   version: 18.2.0
   resolution: "react-dom@npm:18.2.0"
@@ -514,6 +523,7 @@ __metadata:
     "@types/react-dom": 18.0.11
     lefthook: ^1.3.5
     next: 13.2.4
+    prettier: ^2.8.4
     react: 18.2.0
     react-dom: 18.2.0
     rome: ^11.0.0

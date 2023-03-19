@@ -1,14 +1,10 @@
 {
-  "editor.rulers": [
-    120
-  ],
+  "editor.rulers": [120],
   "search.exclude": {
     "**/.yarn": true,
     "**/.pnp.*": true
   },
-  "cSpell.words": [
-    "outta"
-  ],
+  "cSpell.words": ["outta"],
   "[typescript]": {
     "editor.defaultFormatter": "rome.rome",
     "editor.formatOnSave": true

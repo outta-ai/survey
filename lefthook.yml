@@ -4,16 +4,16 @@ pre-commit:
   parallel: true
   commands:
     rome:
-      glob: "*.{js,ts,jsx,tsx}"
+      glob: '*.{js,ts,jsx,tsx}'
       run: yarn rome check {staged_files}
     typescript:
       files: git diff --cached --name-only
-      glob: "*.{js,ts,jsx,tsx}"
+      glob: '*.{js,ts,jsx,tsx}'
       run: yarn tsc --noEmit
 post-checkout:
   # Reconfigure the environment after a git checkout.
   parallel: true
   commands:
     yarn-install:
-      glob: "yarn.lock"
+      glob: 'yarn.lock'
       run: yarn install
